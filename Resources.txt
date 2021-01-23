@@ -1,0 +1,5 @@
+1. - University of Bedfordshire course materials
+2. - https://docs.python.org/3/
+3. - https://effbot.org/
+4. - http://docs.peewee-orm.com/en/latest/
+5. - https://stackoverflow.com/
