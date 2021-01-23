@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f0b6faa-06dd-45bc-8614-a9c5ae163447" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Taxi_Booking_System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Taxi_Booking_System.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CreateTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UseCases.py" beforeDir="false" afterPath="$PROJECT_DIR$/UseCases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_use.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/booking_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/booking_system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driver_booking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/records.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_booking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_driver.py" beforeDir="false" />
-    </list>
+    <list default="true" id="1f0b6faa-06dd-45bc-8614-a9c5ae163447" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/booking_system.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="1125" lean-forward="true" selection-start-line="1125" selection-end-line="1125" />
+            <state relative-caret-position="309">
+              <caret line="1117" column="26" lean-forward="true" selection-start-line="1117" selection-start-column="26" selection-end-line="1117" selection-end-column="26" />
               <folding>
                 <element signature="e#136#171#0" expanded="true" />
                 <element signature="e#1519#3554#1" />
@@ -79,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UseCases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="7040">
               <caret line="386" selection-start-line="386" selection-end-line="386" />
               <folding>
                 <element signature="e#118#133#0" expanded="true" />
@@ -100,11 +81,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/playground.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="109" column="19" lean-forward="true" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+            <state relative-caret-position="2354">
+              <caret line="109" column="19" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
-                <element signature="e#214#4471#0" />
               </folding>
             </state>
           </provider>
@@ -161,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -402,12 +382,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="529146000" />
+    <option name="totallyTimeSpent" value="529151000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24797843" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25202155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -645,7 +625,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UseCases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="7040">
           <caret line="386" selection-start-line="386" selection-end-line="386" />
           <folding>
             <element signature="e#118#133#0" expanded="true" />
@@ -664,19 +644,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/playground.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="109" column="19" lean-forward="true" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+        <state relative-caret-position="2354">
+          <caret line="109" column="19" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
-            <element signature="e#214#4471#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/booking_system.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="1125" lean-forward="true" selection-start-line="1125" selection-end-line="1125" />
+        <state relative-caret-position="309">
+          <caret line="1117" column="26" lean-forward="true" selection-start-line="1117" selection-start-column="26" selection-end-line="1117" selection-end-column="26" />
           <folding>
             <element signature="e#136#171#0" expanded="true" />
             <element signature="e#1519#3554#1" />
