@@ -336,7 +336,7 @@ def update_driver_all(driver_id, income, distance):
     made by the Driver.
     :param driver_id: - integer, Driver ID.
     :param income: - float, one trip price.
-    :param distance: - float, one trip diatance.
+    :param distance: - float, one trip distance.
     """
     Driver.update(available=True, income=Driver.income+income,
                   distance=Driver.distance+distance,
@@ -382,5 +382,3 @@ db.connect()
 db.create_tables([User, Driver, Booking, Admin], safe=True)
 # Close database
 db.close()
-
-print(Admin().select().where(Admin.username==1))
